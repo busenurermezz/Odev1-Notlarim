@@ -1,2 +1,2 @@
-# -dev1-Notlar-m
+# Odev1-Notlarim
 YZTA Ödevlerim
